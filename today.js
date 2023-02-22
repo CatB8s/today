@@ -6,3 +6,4 @@ console.log ("BENTS LANE SOCIAL INSTITUTE LOWER BENTS LANE" .toLocaleLowerCase()
 console.log ("GREAT MOOR LIBRARY GLADSTONE STREET, GREAT MOOR, STOCKPORT, STOCKPORT, SK2 7QF" .toLocaleLowerCase());
 console.log ("THE VILLAGE WEB COMPANY" .toLocaleLowerCase());
 console.log ("AARDVARKS IN UNDERPANTS" .toLocaleLowerCase());
+console.log ("ANTI DISTINCTLY MINTY" .toLocaleLowerCase());
