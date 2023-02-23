@@ -7,3 +7,5 @@ console.log ("GREAT MOOR LIBRARY GLADSTONE STREET, GREAT MOOR, STOCKPORT, STOCKP
 console.log ("THE VILLAGE WEB COMPANY" .toLocaleLowerCase());
 console.log ("AARDVARKS IN UNDERPANTS" .toLocaleLowerCase());
 console.log ("ANTI DISTINCTLY MINTY" .toLocaleLowerCase());
+console.log ("AUNTIE DISTINCTLY MINTY" .toLocaleLowerCase());
+
