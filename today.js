@@ -8,4 +8,5 @@ console.log ("THE VILLAGE WEB COMPANY" .toLocaleLowerCase());
 console.log ("AARDVARKS IN UNDERPANTS" .toLocaleLowerCase());
 console.log ("ANTI DISTINCTLY MINTY" .toLocaleLowerCase());
 console.log ("AUNTIE DISTINCTLY MINTY" .toLocaleLowerCase());
+console.log ("AARDVARK" .toLocaleLowerCase());
 
