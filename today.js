@@ -9,4 +9,5 @@ console.log ("AARDVARKS IN UNDERPANTS" .toLocaleLowerCase());
 console.log ("ANTI DISTINCTLY MINTY" .toLocaleLowerCase());
 console.log ("AUNTIE DISTINCTLY MINTY" .toLocaleLowerCase());
 console.log ("AARDVARK" .toLocaleLowerCase());
+console.log ("AMINTY" .toLocaleLowerCase());
 
