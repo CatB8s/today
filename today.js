@@ -12,4 +12,5 @@ console.log ("AARDVARK" .toLocaleLowerCase());
 console.log ("AMINTY" .toLocaleLowerCase());
 console.log ("CLIQUE" .toLocaleLowerCase());
 console.log ("STAIRCASE HOUSE 30 MARKET PLACE, STOCKPORT, STOCKPORT, SK1 1ES" .toLocaleLowerCase());
+console.log ("ANYTHING" .toLowerCase())
 
